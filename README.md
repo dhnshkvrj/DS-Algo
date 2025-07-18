@@ -300,6 +300,7 @@
 | [1801-average-time-of-process-per-machine](https://github.com/dhnshkvrj/DS-Algo/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/dhnshkvrj/DS-Algo/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/dhnshkvrj/DS-Algo/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/dhnshkvrj/DS-Algo/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [2087-confirmation-rate](https://github.com/dhnshkvrj/DS-Algo/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/dhnshkvrj/DS-Algo/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->

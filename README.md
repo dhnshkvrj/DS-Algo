@@ -93,6 +93,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0217-contains-duplicate](https://github.com/dhnshkvrj/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -117,6 +118,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dhnshkvrj/DS-Algo/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -161,6 +163,7 @@
 | [0162-find-peak-element](https://github.com/dhnshkvrj/DS-Algo/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/dhnshkvrj/DS-Algo/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/dhnshkvrj/DS-Algo/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/dhnshkvrj/DS-Algo/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/dhnshkvrj/DS-Algo/tree/master/0540-single-element-in-a-sorted-array) |

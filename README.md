@@ -94,6 +94,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/dhnshkvrj/DS-Algo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/dhnshkvrj/DS-Algo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dhnshkvrj/DS-Algo/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/dhnshkvrj/DS-Algo/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/dhnshkvrj/DS-Algo/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/dhnshkvrj/DS-Algo/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/dhnshkvrj/DS-Algo/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/dhnshkvrj/DS-Algo/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/dhnshkvrj/DS-Algo/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/dhnshkvrj/DS-Algo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/dhnshkvrj/DS-Algo/tree/master/0402-remove-k-digits) |
 ## Design

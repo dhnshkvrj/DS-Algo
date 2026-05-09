@@ -1,5 +1,17 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        a="".join(sorted(s))
-        b="".join(sorted(t))
-        return a==b
+        if len(s)!=len(t):
+            return False
+        freq={}
+        for i in s:
+            if i in freq:
+                freq[i]+=1
+            else:
+                freq[i]=1
+        
+        for j in t:
+            if j not in freq or freq[j]==0:
+                return False
+            else:
+                freq[j]-=1
+        return True
